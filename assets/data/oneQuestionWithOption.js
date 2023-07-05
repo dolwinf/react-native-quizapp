@@ -1,5 +1,5 @@
 export default {
-  question: 'Which of these is "the glass"?',
+  question: "Which of these is a glass?",
   options: [
     {
       id: "option1",

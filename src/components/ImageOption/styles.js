@@ -17,4 +17,14 @@ export default styles = StyleSheet.create({
     flex: 1,
   },
   optionText: {},
+
+  selectedContainer: {
+    backgroundColor: "#DDF4FE",
+    borderColor: "#81D5FE",
+  },
+
+  selectedText: {
+    color: "#40BEF7",
+    fontWeight: "bold",
+  },
 });
